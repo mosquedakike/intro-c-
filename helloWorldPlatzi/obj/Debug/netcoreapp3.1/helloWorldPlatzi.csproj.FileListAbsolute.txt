@@ -1,0 +1,13 @@
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.exe
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.deps.json
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.runtimeconfig.json
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.runtimeconfig.dev.json
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.dll
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\netcoreapp3.1\helloWorldPlatzi.pdb
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.csprojAssemblyReference.cache
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.AssemblyInfoInputs.cache
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.AssemblyInfo.cs
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.dll
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.pdb
+C:\Users\enriq\RiderProjects\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\netcoreapp3.1\helloWorldPlatzi.genruntimeconfig.cache
