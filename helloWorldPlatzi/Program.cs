@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Globalization;
 
 namespace helloWorldPlatzi
@@ -7,26 +8,26 @@ namespace helloWorldPlatzi
     {
         static void Main(string[] args)
         {
-            //arrays
-            //se definen los arreglos
-            string[] coffeTypes;
-            float[] coffePrices;
+            //declarando e inicializando la lista
+            List<string> tacoShoppingList = new List<string>();
+            tacoShoppingList.Add("Cinco tacos de suadero");
+            tacoShoppingList.Add("Cuatro tacos de tripa");
+            tacoShoppingList.Add("Cinco tacos de pastor");
+            tacoShoppingList.Add("Cuatro coca colas");
 
-            //se inicializan los arreglos
-            coffeTypes = new string[]
+            for (int i = 0; i < tacoShoppingList.Count; i++)
             {
-                "Expresso",
-                "Largo",
-                "Filrado",
-                "Latte"
-            };
+                Console.WriteLine(tacoShoppingList[i]);
+            }
             
-            coffePrices = new float[] {1.2f, 1.5f, 5.0f, 5.5f};
+            Console.WriteLine("----------------Remove-----------------------");
 
-            coffeTypes[1] = "Big";
-            for (int i = 0; i < coffeTypes.Length; i++)
+            tacoShoppingList.Remove("Cinco tacos de suadero");
+            //tacoShoppingList.RemoveAt(0);
+            
+            for (int i = 0; i < tacoShoppingList.Count; i++)
             {
-                Console.WriteLine(coffeTypes[i] + " Coffe $" + coffePrices[i]);
+                Console.WriteLine(tacoShoppingList[i]);
             }
         }
     }
